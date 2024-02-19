@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link  rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css">
   <?php require('inc/links.php'); ?>
-  <title><?php echo $settings_r['site_title'] ?> - Pansiyon</title>
+  <title><?php echo $settings_r['site_title'] ?> - Gürcan Pansiyon</title>
   <style>
     .availability-form{
       margin-top: -50px;
